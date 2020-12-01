@@ -1,3 +1,12 @@
+## Description
+This is a project where you can search drink with the ingredients. 
+
+I used the API from https://www.thecocktaildb.com/api.php
+
+Preview 
+https://drinksearch.netlify.app
+
+This project was bootstrapped with Create React App.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
