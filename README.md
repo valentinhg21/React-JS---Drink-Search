@@ -1,9 +1,9 @@
 ## Description
-This is a project where you can search drink with the ingredients. 
+En este proyecto puedes encontrar tipos de bebidas que usen el ingrediente ingresado.
 
-I used the API from https://www.thecocktaildb.com/api.php
+API usada: https://www.thecocktaildb.com/api.php
 
-Preview 
+Visualización: 
 https://drinksearch.netlify.app
 
 This project was bootstrapped with Create React App.
